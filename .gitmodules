@@ -1,0 +1,6 @@
+[submodule "new-track-lately"]
+	path = new-track-lately
+	url = https://github.com/hughrawlinson/new-track-lately.git
+[submodule "yourmusiverse"]
+	path = yourmusiverse
+	url = https://github.com/hughrawlinson/yourmusiverse.git
